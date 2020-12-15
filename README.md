@@ -1,5 +1,5 @@
 # Violent-Activity-Detection
-Anomaly detection is a technique used to identify unusual patterns that do not conform to expected behavior, called outliers. It has many applications in business, from intrusion detection (identifying strange patterns in network traffic that could signal a hack), system health monitoring (spotting a malignant tumor in an MRI scan) to fraud detection in credit card transactions and fault detection in operating environments.
+Commonly known as anomaly detection is a technique used to identify unusual patterns that do not conform to expected behavior, called outliers. It has many applications in business, from intrusion detection (identifying strange patterns in network traffic that could signal a hack), system health monitoring (spotting a malignant tumor in an MRI scan) to fraud detection in credit card transactions and fault detection in operating environments.
 
 The dataset contains 1000(400 fall sequences + 600 daily activity sequences) sequences.
 
