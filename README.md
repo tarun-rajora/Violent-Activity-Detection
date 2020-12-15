@@ -3,7 +3,7 @@ Anomaly detection is a technique used to identify unusual patterns that do not c
 
 The dataset contains 1000(400 fall sequences + 600 daily activity sequences) sequences.
 
-We used MATLAB and python language in this project to refine and to extract features from raw data, to train data, and for testing new data, etc. The steps of, extracting features from raw data to applying various classification techniques on training data, are given below:
+We used python language in this project to refine and to extract features from raw data, to train data, and for testing new data, etc. The steps of, extracting features from raw data to applying various classification techniques on training data, are given below:
 
 We were provided with the videos.
 Then we converted videos to dynamic images.
